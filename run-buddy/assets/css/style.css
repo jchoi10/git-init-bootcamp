@@ -239,6 +239,17 @@ section {
     color: #fce138;
   }
 
+  .contact-info iframe {
+    width: 400px;
+    height: 400px;
+  }
+
+  .contact-info {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
   .contact-info div {
     width: 410px;
     display: inline-block;
