@@ -20,4 +20,8 @@
 
 ## Screenshot of final webpage
 
-![alt text](../module1-challenge/assets/images/_Users_michaelchoi_Documents_git-init_module1-challenge_index.html.png)
+![screenshot](../module1-challenge/assets/images/_Users_michaelchoi_Documents_git-init_module1-challenge_index.html.png)
+
+## Live URL
+
+[https://jchoi10.github.io/git-init-bootcamp/module1-challenge/](https://jchoi10.github.io/git-init-bootcamp/module1-challenge/)
